@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">API-RestFull-Lab03</string>
+
+    <string-array name="categorias">
+        <item>Alojamiento</item>
+        <item>Alimentacion y bebidas</item>
+        <item>Atractivos Culturales</item>
+        <item>Esparcimiento</item>
+        <item>Compras</item>
+        <item>Transporte</item>
+        <item>Rutas</item>
+        <item>Agencias de viajes</item>
+    </string-array>
 </resources>
